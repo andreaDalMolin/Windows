@@ -1,0 +1,3 @@
+netsh dhcp server 127.0.0.1 scope 192.168.190.0 add reservedip 192.168.190.155 000C298CEF73 win10 DHCP
+
+dnscmd /RecordAdd dalmolin.local vm10 CNAME ip-192-168-190-155.dalmolin.local.
