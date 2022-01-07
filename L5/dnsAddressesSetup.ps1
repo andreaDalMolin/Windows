@@ -1,5 +1,5 @@
 ﻿$min = 150;
-$max = 153;
+$max = 156;
 $serverName = ""
 $domainName = "dalmolin.local"
 $entryName = "ip-192-168-190-"
